@@ -1,6 +1,6 @@
 Kia ora, I'm Jonah Duckles. 
 
-You can also find me on [twitter](https://twitter.com/jduckles) and [LinkedIn](https://www.linkedin.com/in/jduck/)
+You can also find me on [twitter](https://twitter.com/jduckles) and [LinkedIn](https://www.linkedin.com/in/jduck/). My [resume is here](https://jduck.net/cv/)
 
 ## Work 
 
