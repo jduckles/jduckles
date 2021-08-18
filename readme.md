@@ -4,12 +4,13 @@ You can also find me on [twitter](https://twitter.com/jduckles) and [LinkedIn](h
 
 ## Work 
 
-* Currently I'm Data Evangelism Lead at [Xero](https://xero.com)
+* Currently - freelance business development, digital transformation consulting and data science education
 * Previously 
   *  Executive Director - [Software Carpentry](https://software-carpentry.org) 
   *  Director of Membership and Technology - [The Carpentries](https://carpentries.org) 
   *  Director of Informatics and Innovation - [The University of Oklahoma](https://ou.edu) 
   *  Consultant - [AbacusBio](https://abacusbio.com)
+  *  Data Evangelism Lead at [Xero](https://xero.com)
 
 ## Repos 
 
