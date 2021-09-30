@@ -4,7 +4,7 @@ You can also find me on [twitter](https://twitter.com/jduckles) and [LinkedIn](h
 
 ## Work 
 
-* Currently - freelance business development, digital transformation consulting and data science education
+* Currently - data science education, business development, and digital transformation consulting 
 * Previously 
   *  Executive Director - [Software Carpentry](https://software-carpentry.org) 
   *  Director of Membership and Technology - [The Carpentries](https://carpentries.org) 
