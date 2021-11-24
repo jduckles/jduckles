@@ -25,5 +25,5 @@ I muck around in OSS, Linux, R, Python and 3D printing.
 ---
 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=jduckles)
+<img src="https://github-readme-stats.vercel.app/api?username=jduckles"/>
 </p>
