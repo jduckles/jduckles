@@ -21,3 +21,9 @@ I muck around in OSS, Linux, R, Python and 3D printing.
 * Hacky but useful way to use git to [make pretty diffs](https://github.com/jduckles/pwdiff) of HTML docs
 * Jinja2 templates for [mail merging and templated document generation](https://github.com/jduckles/emailutil)
 * A 3D printable model of the Otago Penninsula and [R code to make one for yourself](https://github.com/jduckles/otagopeninsula)
+
+---
+
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=jduckles)
+</p>
