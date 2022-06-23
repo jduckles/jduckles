@@ -4,7 +4,10 @@ You can also find me on [twitter](https://twitter.com/jduckles) and [LinkedIn](h
 
 ## Work 
 
-* Currently - data science education, business development, and digital transformation consulting 
+* Currently - 
+  * Organizational Mycology - Consultant
+  * Whale Bytes Ltd. - Founder / Director 
+  * Future Bees NZ Ltd.  - Director
 * Previously 
   *  Executive Director - [Software Carpentry](https://software-carpentry.org) 
   *  Director of Membership and Technology - [The Carpentries](https://carpentries.org) 
