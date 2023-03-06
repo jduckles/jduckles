@@ -5,7 +5,7 @@ You can also find me on [mastodon](https://monogram.org/@jduckles), [twitter](ht
 ## Work 
 
 * Currently - 
-  * Organizational Mycology - Consultant
+  * [Organizational Mycology](https://orgmycology.com) - Co-Founder / Consultant
   * Whale Bytes Ltd. - Founder / Director 
   * Future Bees NZ Ltd.  - Director
 * Previously 
