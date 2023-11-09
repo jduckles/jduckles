@@ -7,7 +7,7 @@ You can also find me on [mastodon](https://monogram.org/@jduckles), [BlueSky](ht
 * Currently - 
   * [Organizational Mycology](https://orgmycology.com) - Co-Founder / Consultant
   * Whale Bytes Ltd. - Founder / Director 
-  * Future Bees NZ Ltd.  - Director
+  * [Future Bees NZ Ltd.](https://futurebees.nz)  - Director
 * Previously 
   *  Executive Director - [Software Carpentry](https://software-carpentry.org) 
   *  Director of Membership and Technology - [The Carpentries](https://carpentries.org) 
