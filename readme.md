@@ -1,6 +1,6 @@
 Kia ora, I'm Jonah Duckles. 
 
-You can also find me on [mastodon](https://monogram.org/@jduckles), [twitter](https://twitter.com/jduckles) and [LinkedIn](https://www.linkedin.com/in/jduck/). My [resume is here](https://jduck.net/cv/)
+You can also find me on [mastodon](https://monogram.org/@jduckles), [BlueSky](https://bsky.app/profile/jonah.duckles.nz) and [LinkedIn](https://www.linkedin.com/in/jduck/). My [resume is here](https://jduck.net/cv/)
 
 ## Work 
 
