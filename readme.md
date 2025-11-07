@@ -4,7 +4,7 @@ I'm **Jonah Duckles** - a consultant, innovator, and open-source enthusiast base
 
 ### 🔗 Connect with me
 
-- 🐘 [Mastodon](https://monogram.org/@jduckles)
+- 🐘 [Mastodon](https://mastodon.nz/@jduckles)
 - 🦋 [BlueSky](https://bsky.app/profile/jonah.duckles.nz)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jduck/)
 - 📄 [Resume/CV](https://jduck.net/cv/)
