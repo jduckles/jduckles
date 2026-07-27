@@ -16,7 +16,7 @@ I'm **Jonah Duckles** - a consultant, innovator, and open-source enthusiast base
 ### Currently
 - **[Organizational Mycology](https://orgmycology.com)** - Co-Founder / Consultant
 - **Whale Bytes Ltd.** - Founder / Director
-- **[Future Bees NZ Ltd.](https://futurebees.nz)** - Director
+- ~~**[Future Bees NZ Ltd.](https://futurebees.nz)** - Director~~
 
 ### Previously
 - Executive Director - [Software Carpentry](https://software-carpentry.org)
