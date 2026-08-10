@@ -37,8 +37,3 @@ I enjoy working with OSS, Linux, R, Python, and 3D printing.
 - **[Email Utilities](https://github.com/jduckles/emailutil)** - Jinja2 templates for mail merging and templated document generation
 - **[Otago Peninsula 3D Model](https://github.com/jduckles/otagopeninsula)** - 3D printable topographical model with R code for custom generation
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jduckles" alt="GitHub Stats"/>
-</p>
