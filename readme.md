@@ -2,12 +2,7 @@
 
 I'm **Jonah Duckles** - a consultant, innovator, and open-source enthusiast based in New Zealand.
 
-### 🔗 Connect with me
-
-- 🐘 [Mastodon](https://mastodon.nz/@jduckles)
-- 🦋 [BlueSky](https://bsky.app/profile/jonah.duckles.nz)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jduck/)
-- 📄 [Resume/CV](https://jduck.net/cv/)
+🔗 Connect with me – 🐘 [Mastodon](https://mastodon.nz/@jduckles) – 🦋 [BlueSky](https://bsky.app/profile/jonah.duckles.nz) – 💼 [LinkedIn](https://www.linkedin.com/in/jduck/) – 📄 [Resume/CV](https://jduck.net/cv/)
 
 ---
 
