@@ -16,14 +16,17 @@ I'm **Jonah Duckles** - a consultant, innovator, and open-source enthusiast base
 ### Currently
 - **[Organizational Mycology](https://orgmycology.com)** - Co-Founder / Consultant
 - **Whale Bytes Ltd.** - Founder / Director
-- ~~**[Future Bees NZ Ltd.](https://futurebees.nz)** - Director~~
+
 
 ### Previously
-- Executive Director - [Software Carpentry](https://software-carpentry.org)
-- Director of Membership and Technology - [The Carpentries](https://carpentries.org)
-- Director of Informatics and Innovation - [The University of Oklahoma](https://ou.edu)
-- Consultant - [AbacusBio](https://abacusbio.com)
-- Data Evangelism Lead - [Xero](https://xero.com)
+
+- ~~**[Future Bees NZ Ltd.](https://futurebees.nz)** - Director~~
+- ~~Data Evangelism Lead - [Xero](https://xero.com)~~
+- ~~Consultant - [AbacusBio](https://abacusbio.com)~~
+- ~~Executive Director - [Software Carpentry](https://software-carpentry.org)~~
+- ~~Director of Membership and Technology - [The Carpentries](https://carpentries.org)~~
+- ~~Director of Informatics and Innovation - [The University of Oklahoma](https://ou.edu)~~
+
 
 ---
 
